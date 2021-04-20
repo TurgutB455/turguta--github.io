@@ -1,0 +1,21 @@
+{
+    "attributes": [
+      {
+        "trait_type": "ACCESSORY", 
+        "value": "hat"
+      }, 
+      {
+        "trait_type": "ACCESSORY", 
+        "value": "pipe"
+      }, 
+      {
+        "trait_type": "GENERATION", 
+        "value": "GENERATION 1"
+      }
+    ], 
+    "description": "This is the factury test contract", 
+    "external_url": "", 
+    "image": "", 
+    "name": "Factury 0004"
+  }
+  
